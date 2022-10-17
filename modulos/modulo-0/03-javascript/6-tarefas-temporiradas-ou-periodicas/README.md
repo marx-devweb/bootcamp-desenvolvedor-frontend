@@ -6,8 +6,6 @@
 
 
 
-
-
 ___
 
 ### setInterval
@@ -18,27 +16,9 @@ ___
 
 
 
-
-
 ___
 
 ### requestAnnimationFrame
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
