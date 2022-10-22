@@ -7,11 +7,10 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 ### MÓDULOS:
 
-1. [Módulo 0 - Fundamentos do Front-End](modulos/modulo-0)
-2. [Módulo 1 - Design para Front-End](modulos/modulo-1)
-3. [Módulo 2 - Angular](modulos/modulo-2)
-4. [Módulo 3 - Vue](modulos/modulo-3)
-5. [Módulo 4 - Tópicos Especiais em Desenvolvimento Front-End](modulos/modulo-4)
+1. [Módulo 1 - Design para Front-End](modulos/modulo-1)
+2. [Módulo 2 - Angular](modulos/modulo-2)
+3. [Módulo 3 - Vue](modulos/modulo-3)
+4. [Módulo 4 - Tópicos Especiais em Desenvolvimento Front-End](modulos/modulo-4)
 
 ---
 
