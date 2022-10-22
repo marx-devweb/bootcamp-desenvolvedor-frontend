@@ -24,6 +24,7 @@
 
 ---
 
-> [MENU PRINCIPAL](../modulo-1/modulos)
+> [MENU PRINCIPAL](bootcamp-desenvolvedor-frontend)
 
 ---
+
