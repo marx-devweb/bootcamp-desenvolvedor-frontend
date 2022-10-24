@@ -20,7 +20,9 @@
     margin: 0 10px 20px 10px;
 }
 
-@supports (display: grid) {
+/*Este comando irá verificar se o navegador tem suporte para o display grid. 
+Se possuir suporte, ele irá ignorar toda a aplicação anterior e irá utilizar esta aplicação*/
+@supports (display: grid) { 
     .wrapper ul {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
