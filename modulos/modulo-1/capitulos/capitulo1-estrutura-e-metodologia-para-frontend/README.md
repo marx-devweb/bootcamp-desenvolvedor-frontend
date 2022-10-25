@@ -1,7 +1,5 @@
 # Estrutura e metodologia para front-end
 
-<br>
-
 ### HTML Semântico
 
 O HTML semântico tem como objetivo deixar nosso site com suas informações bem explicadas e compreensíveis para o computador, facilitando o entendimento de leitores de acessibilidade. 
@@ -105,10 +103,60 @@ Metodologias CSS são padrões de nomenclatura para organizar códigos de CSS.
 
 Abaixo as metodologias mais utilizadas:
 
-- OOCSS
+**OOCSS (Object Oriented CSS)**
 
-- SMACSS
+- Essa metodologia utiliza conceitos de design orientados a objetos, onde ira fornecer uma estrutura CSS baseado na aparência do objeto em vez do conteúdo ou funcionalidade.
 
-- BEM
+- Separa estrutura da skin:
+  - propriedade de estrutura: refere-se ao tamanho e posição dos elementos (height, width, margin, padding, overflow, etc.);
+  - propriedade de skin: refere-se ao aspecto visual dos elementos (color, border, box-shadow, font, opacity, etc.).
+- Separa container do conteúdo: estilos com base em atributos em vez de localização.
 
-  
+Vantagens:
+
+- Possui uma melhor consistência;
+- Tem mais facilidade na manutenção.
+
+Desvantagens: 
+
+- Documentação vaga;
+- Não possui padrões para nomenclatura que diferencie classes de estruturação e de skins.
+
+<br>
+
+**SMACSS**
+
+- Essa metodologia resume-se em um sistema de categorização para conjuntos de regras, conforme as as categorias abaixo:
+  - BASE: estabelece um padrão para cada elemento (não utiliza seletores como classes ou IDs);
+  - LAYOUT: utiliza elementos agregadores, como o header, footer e sidebar. Por padrão, usa-se **l-** como prefixo nos IDs e classes;
+  - MÓDULO: São os demais componentes da página, ele não possui um padrão para a nomenclatura. Normalmente utiliza-se classes com nomes significativos à sua funcionalidade;
+  - ESTADO: define o estado visualmente dentro dos componentes do design (visible/hidden, active/inactive, etc.) por padrão, usa-se **is-** como prefixo nos IDs e classes;
+  - TEMA: são as declarações que impactam na aparência de forma genérica, por exemplo cores padrões.
+
+Vantagens:
+
+- Possui uma semântica mais clara para melhor entendimento;
+- É mais facil de reestruturar, caso seja necessário uma mudança  no HTML;
+
+Desvantagens: 
+
+- Não nomeia elementos descendentes, sendo assim, é mais difícil de executar grandes aplicações;
+
+<br>
+
+**BEM (Block, Element, Modifier)**
+
+- Essa é uma metodologia baseada em componentes para desenvolvimento web.
+  - Block: componente de página logicamente e funcionalmente independente, ou seja, ele e um container que possui todos os elementos dentro dele;
+  - Element: parte constituinte de um bloco que não pode ser usada fora dele;
+  - Modifier: define a aparência e o comportamento de um bloco ou elemento.
+
+Vantagens: 
+
+- Sugere nomenclatura adequada para elementos descendentes;
+- Padrão de organização de arquivos.
+
+Desvantagens:
+
+- Não possui categorias;
+- Não fala nada sobre regras aplicadas diretamente a elementos.

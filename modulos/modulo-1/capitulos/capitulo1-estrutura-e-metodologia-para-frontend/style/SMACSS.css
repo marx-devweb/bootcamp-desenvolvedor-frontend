@@ -1,0 +1,59 @@
+/*ELEMENTOS DE BASE*/
+button {
+    padding: 5px;
+}
+
+p {
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+body {
+    width: 350px;
+    margin: 0 auto;
+}
+
+/*LAYOUT*/
+.l-header{
+    text-align: center;
+}
+
+/*MÓDULO*/
+.card {
+    max-width: 350px;
+    padding: 10px;
+}
+
+.image {
+    max-width: 300px;
+    margin-left: 20px;
+}
+
+.description {
+    text-align: center;
+}
+
+.buttons-cnt {
+    margin: 5px 0 5px 20px;
+}
+
+/*ESTADO*/
+
+
+/*TEMA*/
+.theme-light {
+    color: slategray;
+    background-color: lightgoldenrodyellow;
+    border: 1px;
+}
+
+.theme-success {
+    background-color: greenyellow;
+}
+
+.theme-fail {
+    background-color: lightcoral;
+}
