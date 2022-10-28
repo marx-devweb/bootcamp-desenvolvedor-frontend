@@ -25,8 +25,6 @@ Antes mesmo de CSS básico ser suportado de forma confiável em navegadores, os 
 
 Problemas ao usar o layout de tabela: são inflexíveis, muito pesados na marcação, difíceis de depurar e semanticamente errados (por exemplo, usuários de leitores de tela têm problemas para navegar nos layouts de tabelas).
 
-<br>
-
 [**Float**](https://css-tricks.com/almanac/properties/f/float/)
 
 Float tem sido comumente usado para criar layouts de sites inteiros com várias colunas de informações flutuantes para que fiquem lado a lado. A manipulação dos elementos com float é comumente usado junto com elementos de margem, borda, altura/largura etc.

@@ -1,0 +1,32 @@
+span{
+    text-align: center;
+    font-weight: bold;
+}
+
+.color-green{
+    background-color: green;
+}
+
+.color-yellow{
+    background-color: yellow;
+}
+
+.color-blue{
+    background-color: blue;
+}
+
+.block {
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+.inline{
+    display: inline;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    width: 700px;
+    padding: 20px;
+    margin: 15px 15px;
+    background-color: #E5E5E5;
+    border-radius: 10px;
+    border: 2px solid #858585;
+}
+
+.container > h1 {
+    color: red;
+    margin-bottom: 10px;
+}
+
+.container-flex{
+    display: flex;
+    align-items: stretch;
+    width: 700px;
+    border-radius: 10px;
+    background-color: #1D2C3D;
+}
+
+.item {
+    width: 50px;
+    background-color: #2374B6;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 10px;
+    line-height: 75px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/*propriedade order*/
+.p-order1 {
+    order: 1;
+}
+
+.p-order2 {
+    order: 2;
+}
+
+.p-order3 {
+    order: 3;
+}
+
+.p-order4 {
+    order: 4;
+}
+
+.p-order5 {
+    order: 5;
+}
+
+/*propriedade flex-grow*/
+.p-flex-grow-1{
+    flex-grow: 1;
+}
+
+.p-flex-grow-2{
+    flex-grow: 1;
+}
+
+.p-flex-grow-3{
+    flex-grow: 1;
+}
+
+.p-flex-grow-4{
+    flex-grow: 7;
+}
+
+.p-flex-grow-5{
+    flex-grow: 1;
+}
+
+/*propriedade flex-shrink*/
+.p-flex-shrink{
+    flex-shrink: 0;
+}
+
+/*propriedade flex-basis*/
+.p-flex-basis-1{
+    flex-basis: 100px;
+}
+
+.p-flex-basis-2{
+    flex-basis: 250px;
+}
+
+/*propriedade flex*/
+.p-flex-1{
+    flex: 0 0 180px;
+}
+
+.p-flex-2{
+    flex: 0 0 200px;
+}
+
+/*propriedade align-self*/
+.container-flex-align-self{
+    display: flex;
+    height: 200px;
+    background-color: #1D2C3D;
+}
+
+.item-align-self {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    background-color: #2374B6;
+    color: #FFFFFF;
+    line-height: 75px;    
+}
+
+.p-align-self-1{
+    align-self: flex-start;
+}
+
+.p-align-self-2{
+    align-self: flex-end;
+}
