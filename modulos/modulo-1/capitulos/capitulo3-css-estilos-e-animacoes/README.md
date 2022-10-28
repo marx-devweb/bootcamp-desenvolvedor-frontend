@@ -42,7 +42,7 @@ Os seletores CSS são usados para "encontrar" (ou selecionar) os elementos HTML 
 
 - [**Seletores simples**](https://www.w3schools.com/css/css_selectors.asp): selecione os elementos com base no nome, id, classe;
 - [**Seletores de combinação**](https://www.w3schools.com/css/css_combinators.asp): selecione os elementos com base em uma relação específica entre eles;
-- [Seletores de pseudo-classe](https://www.w3schools.com/css/css_pseudo_classes.asp): selecione os elementos com base em um determinado estado;
+- [**Seletores de pseudo-classe**](https://www.w3schools.com/css/css_pseudo_classes.asp): selecione os elementos com base em um determinado estado;
 - [**Seletores de pseudo-elementos**](https://www.w3schools.com/css/css_pseudo_elements.asp): selecione e estilize uma parte de um elemento;
 - [**Seletores de atributo**](https://www.w3schools.com/css/css_attribute_selectors.asp): selecione os elementos com base em um atributo ou valor de atributo
 
