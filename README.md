@@ -1,5 +1,5 @@
 # Bootcamp Desenvolvedor Front-End
-Este repositório tem a finalidade de documentar todo o aprendizado do Bootcamp Desenvolvedor Front-End, realizado na [XP Educação](https://www.xpeducacao.com.br/). 
+Este repositório tem a finalidade de documentar todo o aprendizado do Bootcamp Desenvolvedor Front-End, realizado na [XP Educação](https://www.xpeducacao.com.br/).
 
 O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvolvimento Front End com Angular e VUE.
 
@@ -16,21 +16,24 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 ### TRABALHOS PRÁTICOS
 
-[Trabalho Prático do Módulo 1]()
+1. [Trabalho Prático do Módulo 1](modulos\modulo-1\trabalho-pratico)
 
-[Trabalho Prático do Módulo 2]()
+2. [Trabalho Prático do Módulo 2]()
 
-[Trabalho Prático do Módulo 3]()
+3. [Trabalho Prático do Módulo 3]()
+
+4. [Trabalho Prático do Módulo 4]()
 
 ---
 
 ### DESAFIOS
 
-[Desafio Módulo I]()
+1. [Desafio Módulo I]()
 
-[Desafio Módulo 2]()
+2. [Desafio Módulo 2]()
 
-[Desafio Módulo 3]()
+3. [Desafio Módulo 3]()
+4. [Desafio Módulo 4]()
 
 ---
 
