@@ -42,7 +42,9 @@ A grande diferença entre UI e UX é que UX analisa a experiência geral do prod
 
 Para ter bons resultados na implementação da UI ao lado do front-end, deve haver uma grande colaboração entre a equipe de design e a equipe de front-end. Obter insights sobre o produto desde os estágios iniciais dará aos desenvolvedores front-end tempo para pesquisar diferentes tipos de estruturas que eles podem usar durante o processo de desenvolvimento, como Bootstrap, Bulma, Tailwind, Material Design ou Foundation. Eles também podem preparar facilmente o espaço de trabalho para esse momento ao decidir sobre diferentes ferramentas, como CSS, pré-processadores, como SASS ou LESS, ferramentas de automação, como gulp ou grunt, e até mesmo frameworks JavaScript, como Angular, React ou Vue.
 
-**Design Systems**
+---
+
+### Design Systems
 
 De acordo com HACQ (2019), Design Systems “é a única fonte de verdade que agrupa todos os elementos que permitirão às equipes projetar, realizar e desenvolver um produto” (tradução livre). Ele é um documento vivo que possui todos componentes de UI e padrões visuais de uma empresa, marca, produto ou experiência. Um bom design system é o que vai unir a identidade do produto com os princípios da empresa, as melhores práticas de usabilidade e acessibilidade para construir componentes e padrões visuais que atendam aos usuários.
 
