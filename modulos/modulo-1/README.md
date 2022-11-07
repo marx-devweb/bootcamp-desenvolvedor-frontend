@@ -21,10 +21,3 @@
 [Capítulo 10 – Técnicas de Debugging](capitulos/capitulo10-tecnicas-de-debugging)
 
 [Capítulo 11 – Exercício de Fixação – Cópia de Site](capitulos/capitulo11-exercicio-de-fixacao-copia-de-site)
-
----
-
-> [MENU PRINCIPAL](bootcamp-desenvolvedor-frontend)
-
----
-

@@ -14,6 +14,26 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 ---
 
-### DESAFIO FINAL
+### TRABALHOS PRÁTICOS
+
+[Trabalho Prático do Módulo 1]()
+
+[Trabalho Prático do Módulo 2]()
+
+[Trabalho Prático do Módulo 3]()
+
+---
+
+### DESAFIOS
+
+[Desafio Módulo I]()
+
+[Desafio Módulo 2]()
+
+[Desafio Módulo 3]()
+
+---
+
+### PROJETO FINAL
 
 [Projeto Final]()
