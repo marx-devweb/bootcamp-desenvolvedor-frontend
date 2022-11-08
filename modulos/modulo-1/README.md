@@ -21,3 +21,15 @@
 [Capítulo 10 – Técnicas de Debugging](capitulos/capitulo10-tecnicas-de-debugging)
 
 [Capítulo 11 – Exercício de Fixação – Cópia de Site](capitulos/capitulo11-exercicio-de-fixacao-copia-de-site)
+
+---
+
+### TRABALHO PRÁTIO
+
+[Trabalho Prático do Módulo 1](trabalho-pratico)
+
+---
+
+### DESAFIO
+
+[Desafio do Módulo 1](desafio)

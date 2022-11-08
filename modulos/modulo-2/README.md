@@ -37,3 +37,16 @@
 [Capítulo 18 – Desafio guiado 4: CRUD completo](capitulos/capitulo18-desafio-guiado4-CRUD-completo)
 
 [Capítulo 19 – Deploy da aplicação](capitulos/capitulo19-deploy-da-aplicacao)
+
+--- 
+
+### TRABALHO PRÁTIO
+
+[Trabalho Prático do Módulo 2](trabalho-pratico)
+
+---
+
+### DESAFIO
+
+[Desafio do Módulo 2](desafio)
+

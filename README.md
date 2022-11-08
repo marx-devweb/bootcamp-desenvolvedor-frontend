@@ -28,15 +28,15 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 ### DESAFIOS
 
-1. [Desafio Módulo I]()
+1. [Desafio Módulo I](modulos/modulo-1/desafio)
 
-2. [Desafio Módulo 2]()
+2. [Desafio Módulo 2](modulos/modulo-2/desafio)
 
-3. [Desafio Módulo 3]()
-4. [Desafio Módulo 4]()
+3. [Desafio Módulo 3](modulos/modulo-4/desafio)
+4. [Desafio Módulo 4](modulos/modulo-4/desafio)
 
 ---
 
 ### PROJETO FINAL
 
-[Projeto Final]()
+[Projeto Final](projeto-final)
