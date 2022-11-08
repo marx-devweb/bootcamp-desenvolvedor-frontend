@@ -30,7 +30,7 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 1. [Desafio Módulo I]()
 
-2. [Desafio Módulo 2]()
+2. [Desafio Módulo 2](modulos/modulo-2/trabalho-pratico)
 
 3. [Desafio Módulo 3]()
 4. [Desafio Módulo 4]()
