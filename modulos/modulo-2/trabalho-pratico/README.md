@@ -34,14 +34,14 @@ Para o desempenho do desafio, será necessário desempenhar as seguintes ativida
 
 O resultado final deverá ficar conforme as imagens abaixo:
 
-1) Interface no estado inicial:
+1. Interface no estado inicial:
 
-<img src="images/img-01.jpg" style="width:300px">
+   <img src="images/img-01.jpg" style="width:300px">
 
 2. Interface após selecionar uma opção:
 
    <img src="images/img-02.jpg" style="width:300px">
 
-   3. Interface após selecionar todas as opções permitidas:
+3. Interface após selecionar todas as opções permitidas:
 
-      <img src="images/img-03.jpg" style="width:300px">
+   <img src="images/img-03.jpg" style="width:300px">
