@@ -16,13 +16,13 @@ O Bootcamp teve como objetivo apresentar conceitos fundamentais sobre o desenvol
 
 ### TRABALHOS PRÁTICOS
 
-1. [Trabalho Prático do Módulo 1](modulos\modulo-1\trabalho-pratico)
+1. [Trabalho Prático do Módulo 1](modulos/modulo-1/trabalho-pratico)
 
 2. [Trabalho Prático do Módulo 2](modulos/modulo-2/trabalho-pratico)
 
-3. [Trabalho Prático do Módulo 3](modulos\modulo-3\trabalho-pratico)
+3. [Trabalho Prático do Módulo 3](modulos/modulo-3/trabalho-pratico)
 
-4. [Trabalho Prático do Módulo 4](modulos\modulo-4\trabalho-pratico)
+4. [Trabalho Prático do Módulo 4](modulos/modulo-4/trabalho-pratico)
 
 ---
 

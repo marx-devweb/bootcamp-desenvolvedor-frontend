@@ -1,4 +1,4 @@
-# Desafio do Módulo 4 - Tópicos Especiais em Desenvolvimento Front-End
+# Trabalho Prático do Módulo 4 - Tópicos Especiais em Desenvolvimento Front-End
 
 ### Objetivo
 
