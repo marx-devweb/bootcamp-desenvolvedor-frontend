@@ -1,4 +1,4 @@
-# Trabalho Prático do Módulo 1 - VUE
+# Trabalho Prático do Módulo 1 - Design para Front-end
 
 ### Objetivo
 

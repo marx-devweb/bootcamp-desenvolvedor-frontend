@@ -1,4 +1,4 @@
-# Desafio do Módulo 3 - VUE
+# Desafio do Módulo 1 - Design para Front-End
 
 ### Objetivo
 
