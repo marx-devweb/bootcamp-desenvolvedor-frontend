@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Exercitar os seguintes conceitos trabalhados no Módulo:
+O trabalho prático teve o objetivo de exercitar os seguintes conceitos trabalhados no Módulo:
 
 1. Criar uma aplicação Angular;
 2. Criar componentes e templates;
@@ -14,7 +14,7 @@ Exercitar os seguintes conceitos trabalhados no Módulo:
 
 ### Enunciado
 
-Utilizando o Angular, construa um componente que permita a seleção de opções de uma lista predefinida. Tal componente deve ser configurável e receber como propriedades:
+O objetivo deste trabalho foi  construir um componente utilizando o Angular, que nos permite usar uma seleção de opções de uma lista predefinida. Tal componente deve ser configurável e receber como propriedades:
 
 - Um título, exibido no topo do componente (string).
 - A lista de opções disponíveis, na forma de um array de strings.
@@ -24,7 +24,7 @@ Utilizando o Angular, construa um componente que permita a seleção de opções
 
 ### Atividades
 
-Para o desempenho do desafio, será necessário desempenhar as seguintes atividades:
+Foi desempenhadas as seguintes atividades:
 
 1. Criar uma aplicação Angular com o nome desejado;
 2. Adicionar na aplicação um componente `SelecaoComponent`;
@@ -38,7 +38,7 @@ Para o desempenho do desafio, será necessário desempenhar as seguintes ativida
 
 ### Resultado Final
 
-O resultado final deverá ficar conforme as imagens abaixo:
+Abaixo temos imagens do resultado final: 
 
 1. Interface no estado inicial:
 
