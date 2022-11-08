@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-O trabalho prático teve o objetivo de exercitar os seguintes conceitos vistos nas aulas:
+O trabalho prático teve o objetivo de exercitar os seguintes conceitos trabalhados no Módulo:
 
 1. HTML Semântico;
 2. CSS Estilos e Animações;
@@ -15,7 +15,7 @@ O trabalho prático teve o objetivo de exercitar os seguintes conceitos vistos n
 
 ### Enunciado
 
-O objetivo deste trabalho foi usar o que foi aprendido nas aulas e fazer com que o site provido seja:
+O objetivo deste trabalho foi desenvolver um site com o layout provido utilizando o que foi aprendido nas aulas, conforme solicitado abaixo:
 
 - Semanticamente coerente de acordo com as regras do HTML semântico;
 - Responsivo;

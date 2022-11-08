@@ -14,7 +14,7 @@ O trabalho prático teve o objetivo de exercitar os seguintes conceitos trabalha
 
 ### Enunciado
 
-O objetivo deste trabalho foi  construir um componente utilizando o Angular, que nos permite usar uma seleção de opções de uma lista predefinida. Tal componente deve ser configurável e receber como propriedades:
+O objetivo deste trabalho foi construir um componente utilizando o Angular, que nos permite usar uma seleção de opções de uma lista predefinida. Tal componente deve ser configurável e receber como propriedades:
 
 - Um título, exibido no topo do componente (string).
 - A lista de opções disponíveis, na forma de um array de strings.
