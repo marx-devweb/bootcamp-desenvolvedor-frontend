@@ -14,15 +14,15 @@ O desafio teve o objetivo de exercitar os seguintes conceitos trabalhados no Mó
 
 ### Enunciado
 
-Construir, utilizando Angular, uma aplicação para pedido de comida, que vamos chamar de ngFood. Tal aplicação deve ter duas telas (cada uma com sua rota). 
+O objetivo deste desafio foi construir uma aplicação para pedido de comida utilizando Angular, que vamos chamar de **ngFood**. Tal aplicação possui  duas telas (cada uma com sua rota). 
 
-A tela inicial, **Cardápio**, exibe a lista de produtos e seus respectivos preços. Ao clicar em um produto, ele deve ser adicionado ao pedido atual. Um produto pode ser adicionado repetidas vezes ao pedido, aumentando a quantidade dele. Essa tela também deve:
+A tela inicial **Cardápio**, exibe a lista de produtos e seus respectivos preços. Ao clicar em um produto, ele deve ser adicionado ao pedido atual. Um produto pode ser adicionado repetidas vezes ao pedido, aumentando a quantidade dele. Essa tela também deve:
 
 - Mostrar a quantidade de itens adicionados e o valor total do pedido atual.
 - Ter um link para a tela **Pedido**.
 - Exibir a categoria acima do produto quando ele não for da mesma categoria do anterior na lista (produtos da mesma categoria estão em sequência).
 
-A tela Pedido exibe cada produto adicionado ao pedido atual e a respectiva quantidade, bem como o valor total do pedido. Essa tela deve ter botões para:
+A tela **Pedido** exibe cada produto adicionado ao pedido atual e a respectiva quantidade, bem como o valor total do pedido. Essa tela deve ter botões para:
 
 - Voltar para a tela Cardápio;
 - Limpar o pedido (excluir todos os produtos);
@@ -32,7 +32,7 @@ A tela Pedido exibe cada produto adicionado ao pedido atual e a respectiva quant
 
 ### Atividades
 
-Para o desempenho do desafio, será necessário desempenhar as seguintes atividades:
+Foi desempenhadas as seguintes atividades:
 
 1. Criar o projeto e adicionar a dependência para Angular Material;
 2. Configurar o módulo principal da aplicação, adicionando `imports` para os módulos necessários, como `HttpClientModule`, módulos do Angular Material etc;
@@ -77,5 +77,4 @@ Tela **Pedido**:
 Tela **Pedido** após limpar:
 
 <img src="images/img-04.jpg" style="width:250px"> 
-
 

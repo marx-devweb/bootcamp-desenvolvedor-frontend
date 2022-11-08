@@ -26,7 +26,7 @@ O projeto feito feito usando o framework `Bootstrap` junto com `SASS`.
 
 ### Atividades
 
-Para o desempenho do desafio, foi necessário desempenhar as seguintes atividades:
+Foi desempenhadas as seguintes atividades:
 
 1. Desenvolver o site a partir do design provido.
 2. Usar as melhores práticas de desenvolvimento, a partir dos conceitos de `Bootstrap` com `SASS`.
