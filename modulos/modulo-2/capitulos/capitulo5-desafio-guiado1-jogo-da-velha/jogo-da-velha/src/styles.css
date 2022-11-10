@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: #7e8994;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+app-tic-tac-toe table {
+    background-color: #18232e;
+    border-spacing: 0;
+    border-collapse: collapse;
+    color: white;
+}
+
+app-tic-tac-toe td {
+    border: 1px solid white;
+    width: 5em;
+    height: 5em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+app-tic-tac-toe td:hover{
+    cursor:pointer;
+    background-color: #464e57;
+}
+
+app-tic-tac-toe button {
+    width: 250px;
+    height: 3em;
+    background-color: #228B22;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+app-tic-tac-toe button:hover{
+    cursor:pointer;
+    background-color: #379637;
+}
