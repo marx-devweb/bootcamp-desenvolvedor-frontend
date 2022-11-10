@@ -1,0 +1,5 @@
+<p>Este e um {{titulo}}</p>
+<p>Este contador possui o valor: {{valor}}</p>
+<p>clique no botão abaixo para icrementar o valor acima</p>
+
+<button [disabled]="valor >= 10" (click)="increment()">Incrementar</button>
