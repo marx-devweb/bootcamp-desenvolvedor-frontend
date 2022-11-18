@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(158, 123, 190);
+}
+
+app-root{
+    display: block;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+}
+
+h2{
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    color: blueviolet;
+}

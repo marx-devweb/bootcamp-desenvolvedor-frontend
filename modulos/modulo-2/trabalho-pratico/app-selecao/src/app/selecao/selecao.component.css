@@ -1,0 +1,22 @@
+:host {
+    display: block;
+}
+
+.cabecalho{
+    background-color: rgb(202, 182, 221);
+    padding: 1rem;
+}
+
+h3{
+    margin: 0;
+}
+
+li{
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+ul{
+    padding: 1rem;
+    margin: 0;
+}
